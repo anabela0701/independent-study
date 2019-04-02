@@ -10,3 +10,9 @@ The process I went through to deciding on the topic of flutter was an interestin
 Then I stumbled upon Flutter, which is like swift but you can upload your apps to both IOS and Android! I began thinking of apps that people could use and I figured out a few app ideas!
 
 !["YAY!"](../photos/giphy.gif)
+
+## Takaways
+<ul>
+    <li>Deciding is hard, but I realized that I needed to figure out how to make the app that I wanted to make, and what languages i need for it.</li>
+    <li>Do a lot of researching! If you don't know enough about the code and how it works then its just gonna be harder in thd end to learn!</li>
+</ul>
