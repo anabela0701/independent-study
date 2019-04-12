@@ -13,4 +13,4 @@ There are a total of 4 different lessons : Variables and types, Strings, If stat
 
 ## Lesson 1: Variable!
 
-!["YAY!"](../photos/Customizing vars.png)
+!["YAY!"](../photos/vars.png)
