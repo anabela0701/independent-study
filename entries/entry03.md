@@ -9,7 +9,8 @@ the app. I am still tinkering with what I am learning.
 How I am learning swift is by watching and reading the lessons provided by 
 A website called Udacity! I am following the Swift for Beginners lessons. 
 There are a total of 4 different lessons : Variables and types, Strings, If statements, and Functions.
-
+Im super excited to continue learning!!
+!["YAY!"](../photos/elf.gif)
 
 
 ## Lesson 1: Variable!
