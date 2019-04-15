@@ -30,7 +30,8 @@ Ways you can minpulate a string:
 ## Lesson 2: If statements
 They are pretty much exactly what they sound like if a condidtion is true it will run the code you specify. 
 
-'''func goEat() {
+'''swift
+func goEat() {
     print("nom")
 }
 func goToSleep(){
